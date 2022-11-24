@@ -1,0 +1,41 @@
+.cart-btn {
+  border-radius: 55px;
+  height: 37px;
+  width: 55%;
+  background-color: rgb(8, 209, 149);
+  border-color: none;
+  font-size: 15px;
+}
+.name-pro {
+  font-size: 20px;
+}
+.type-pro {
+  font-size: 17px;
+}
+.price-pro {
+  font-size: 17px;
+  /* background-color: rgb(51, 52, 51); */
+}
+.count-pro {
+  font-size: 17px;
+  background-color: rgb(8, 209, 149);
+  width: 150px;
+}
+.header-cart {
+}
+.total-price {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(8, 209, 149);
+  font-size: 20px;
+  margin-left: 8px;
+  margin-top: 20px;
+}
+.buy {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(8, 209, 149);
+  font-size: 20px;
+  color: black;
+  margin-top: -7px;
+}

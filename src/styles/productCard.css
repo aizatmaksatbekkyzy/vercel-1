@@ -1,0 +1,38 @@
+.btn-details {
+  border-radius: 55px;
+  height: 30px;
+  width: 5%;
+  background-color: rgb(8, 209, 149);
+  border-color: none;
+  font-size: 16px;
+}
+.btn-delete {
+  border-radius: 55px;
+  height: 30px;
+  width: 5%;
+  background-color: rgb(8, 209, 149);
+  border-color: none;
+  font-size: 17px;
+}
+.btn-edit {
+  border-radius: 55px;
+  height: 30px;
+  width: 5%;
+  background-color: rgb(8, 209, 149);
+  border-color: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 17px;
+}
+.item {
+  font-size: 20px;
+  color: aliceblue;
+  margin-left: 200px;
+  /* margin-top: 10px; */
+}
+#header {
+  background-color: rgb(51, 52, 51);
+}
+.btn {
+  margin-right: 259px;
+}

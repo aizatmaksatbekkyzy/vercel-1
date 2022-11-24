@@ -1,0 +1,59 @@
+#username-inp {
+  border-radius: 55px;
+  background-color: rgb(8, 209, 149);
+  width: 75%;
+  height: 29px;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: rgb(41, 41, 41);
+  border: none;
+}
+
+#password-inp {
+  border-radius: 55px;
+  background-color: rgb(8, 209, 149);
+  width: 75%;
+  height: 29px;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-top: 13px;
+  color: rgb(41, 41, 41);
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+#register-btn {
+  border-radius: 55px;
+  height: 35px;
+  width: 150px;
+  background-color: rgb(8, 209, 149);
+  margin-top: 16px;
+  margin-left: 250px;
+  font-size: 18px;
+}
+.container {
+  width: 350px;
+  height: 250px;
+  background-color: rgb(51, 52, 51);
+}
+#h2 {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+}
+
+.username {
+  display: flex;
+  justify-content: center;
+}
+
+.password {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  display: flex;
+  justify-content: space-around;
+}
